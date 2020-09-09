@@ -1,0 +1,4 @@
+
+polybar -r mybar &
+nitrogen --restore &
+setxkbmap -model abnt -layout us variant intl
