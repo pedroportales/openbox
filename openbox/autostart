@@ -1,4 +1,5 @@
 
 polybar -r mybar &
 nitrogen --restore &
+lxpanel &
 setxkbmap -model abnt -layout us variant intl
